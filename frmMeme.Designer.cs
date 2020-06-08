@@ -56,7 +56,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "frmMeme";
-            this.Text = "frmMeme";
+            this.Text = "Meme Generator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
